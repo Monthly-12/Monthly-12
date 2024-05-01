@@ -26,9 +26,7 @@ I've been learning React for NOW
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
-
   <br></br>
-
 <a href="https://www.ko-fi.com/kittidech"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
